@@ -4,7 +4,7 @@ import pickle
 from itertools import combinations
 import sentiment
 if __name__ == '__main__':
-    domain = ["skoob", "itunes", "steam", "mercadolivre"]
+    domain = ["skoob", "appStore", "steam", "mercadolivre"]
 
     k = [200, 300, 400]
     dim = [40, 50, 100, 150]
