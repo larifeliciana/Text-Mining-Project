@@ -1,0 +1,4 @@
+svm tfidf MI = 400 dim = 40  on dev : rep = 0.835 , non = 0.92 all = 0.9225, on target: rep = 0.689 , non = 0.6945 all = 0.7315 time = 1809.716402
+svm counter MI = 400 dim = 40  on dev : rep = 0.84 , non = 0.875 all = 0.8975, on target: rep = 0.693 , non = 0.613 all = 0.6785 time = 1820.123499
+svm idf MI = 400 dim = 40  on dev : rep = 0.83 , non = 0.9175 all = 0.9175, on target: rep = 0.6875 , non = 0.693 all = 0.722 time = 1829.243698
+svm binario MI = 400 dim = 40  on dev : rep = 0.84 , non = 0.875 all = 0.8975, on target: rep = 0.693 , non = 0.613 all = 0.6785 time = 1839.369999

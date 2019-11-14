@@ -1,0 +1,4 @@
+logistic tfidf MI = 400 dim = 40  on dev : rep = 0.725 , non = 0.805 all = 0.7525, on target: rep = 0.7795 , non = 0.8185 all = 0.795 time = 1662.294877
+logistic counter MI = 400 dim = 40  on dev : rep = 0.715 , non = 0.805 all = 0.8, on target: rep = 0.7375 , non = 0.8235 all = 0.83 time = 1669.663192
+logistic idf MI = 400 dim = 40  on dev : rep = 0.725 , non = 0.7975 all = 0.7575, on target: rep = 0.776 , non = 0.8095 all = 0.7915 time = 1677.440556
+logistic binario MI = 400 dim = 40  on dev : rep = 0.715 , non = 0.805 all = 0.8, on target: rep = 0.7375 , non = 0.8235 all = 0.83 time = 1684.965549

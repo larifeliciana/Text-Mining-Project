@@ -1,0 +1,4 @@
+random tfidf MI = 400 dim = 40  on dev : rep = 0.665 , non = 0.765 all = 0.715, on target: rep = 0.669 , non = 0.7765 all = 0.6935 time = 1753.509609
+random counter MI = 400 dim = 40  on dev : rep = 0.645 , non = 0.7625 all = 0.715, on target: rep = 0.668 , non = 0.7305 all = 0.6655 time = 1761.044803
+random idf MI = 400 dim = 40  on dev : rep = 0.6575 , non = 0.78 all = 0.735, on target: rep = 0.685 , non = 0.74 all = 0.722 time = 1768.914063
+random binario MI = 400 dim = 40  on dev : rep = 0.6025 , non = 0.755 all = 0.6875, on target: rep = 0.6495 , non = 0.7415 all = 0.6915 time = 1776.423492
