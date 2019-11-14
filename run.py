@@ -6,10 +6,10 @@ import sentiment
 if __name__ == '__main__':
     domain = ["skoob", "appStore", "steam", "mercadolivre"]
 
-    k = [200, 300, 400]
-    dim = [40, 50, 100, 150]
+    k = [500]
+    dim = [50]
 
-    lista = [[0,3],[1,3],[2,3],[3,0],[3,1],[3,2]]
+    lista = [[1,0],[0,1]]
 
     rodadas = len(k)*len(dim)*len(lista)
     conta = 0
